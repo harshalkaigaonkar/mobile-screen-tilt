@@ -1,0 +1,16 @@
+.videoBackground {
+ position: absolute;
+ top: 0;
+ left: 0;
+ min-height: 70vh;
+ min-width: 60vw;
+ padding: 2px;
+ margin: 2px;
+}
+.video {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%
+}

@@ -1,0 +1,13 @@
+.frame {
+ margin: 50px;
+ width: 430px;
+ height: 900px;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ border-radius: 60px;
+ background-image: url('/phone.svg'), url('/content.svg');
+ background-repeat: no-repeat;
+ background-position: 50%;
+}
