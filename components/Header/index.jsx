@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import LeftToRight from '../../frames/leftToRight'
+import LeftToRight from '../../frames/LeftToRight'
 import styles from '../../styles/Header.module.css'
 
 const ImageUrl = "https://quriverse.com/static/media/LogoTextWhite.21bc485c.png"
